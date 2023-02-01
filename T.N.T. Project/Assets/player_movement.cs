@@ -5,6 +5,7 @@ using UnityEngine;
 public class player_movement : MonoBehaviour
 {
     public CharacterController2D controller;
+    public Animator animator;
     public Rigidbody2D rb;
 
     public float MaxrunSpeed = 100f;
@@ -33,11 +34,14 @@ public class player_movement : MonoBehaviour
         
         horizontalMove = Input.GetAxisRaw("Horizontal") * WalkSpeed;
         verticalMove = Input.GetAxisRaw("Vertical") * climbSpeed * 10;
+        animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
         
+
 
         if (Input.GetButtonDown("Jump"))
         {
             jump = true;
+            animator.SetBool("IsJump", true);
         }
 
         if(isLadder && Mathf.Abs(verticalMove) > 0f)
@@ -52,6 +56,10 @@ public class player_movement : MonoBehaviour
         CalculateSpeed();
     }
 
+    public void OnLanding ()
+    {
+        animator.SetBool("IsJump", false);
+    }
     private void CalculateSpeed()
     {
         
