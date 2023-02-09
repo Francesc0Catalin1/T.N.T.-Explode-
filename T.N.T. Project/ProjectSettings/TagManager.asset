@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Civile
+  - Esplosione
+  - TimeObj
+  - Death
+  - Victory
   layers:
   - Default
   - TransparentFX
@@ -12,7 +16,7 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
+  - Civilian
   - 
   - 
   - 

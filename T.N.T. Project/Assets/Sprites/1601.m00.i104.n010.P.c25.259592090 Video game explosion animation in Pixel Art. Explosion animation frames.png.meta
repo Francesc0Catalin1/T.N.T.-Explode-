@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 8343c6ec38cb8924abe267dc5b40c83f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in
+        Pixel Art. Explosion animation frames_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 916
+        width: 490
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda8cfcbdfb6cf14981d3d50474871e1
+      internalID: -288000272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in
+        Pixel Art. Explosion animation frames_1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 853
+        width: 604
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a9e2fd45f7c4041a3d4080f1938d6d
+      internalID: 1726908962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in
+        Pixel Art. Explosion animation frames_2
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 846
+        width: 654
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc72c95814242642a2ca25bdf3a30c0
+      internalID: -1148996926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in
+        Pixel Art. Explosion animation frames_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 577
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c3a0365a02e747a2444a6be477298
+      internalID: -921103881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in
+        Pixel Art. Explosion animation frames_4
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 28
+        width: 527
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee21eeaefac87684e8f6fea733df861e
+      internalID: 441888476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in
+        Pixel Art. Explosion animation frames_7
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 53
+        width: 501
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6439982402e569347a54ecb0bb5eab86
+      internalID: 581325702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_3: -288000272
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_0: 675181404
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_11: -1148996926
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_6: -921103881
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_17: 441888476
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_13: 202721842
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_12: 872520931
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_16: 581325702
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_15: 1229210469
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_20: 1034597698
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_10: -1335282051
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_18: -226120966
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_7: 1883798451
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_1: -1329465171
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_4: -788695629
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_5: -1189031080
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_9: -1415915285
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_2: -287386922
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_8: 1125228780
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_14: 1078885206
+      1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames_19: 1726908962
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -13,9 +13,33 @@ MonoBehaviour:
   m_Name: PlayMakerGlobals
   m_EditorClassIdentifier: 
   variables:
-    floatVariables: []
-    intVariables: []
-    boolVariables: []
+    floatVariables:
+    - useVariable: 1
+      name: Time
+      tooltip: 
+      showInInspector: 1
+      networkSync: 0
+      value: 20
+    - useVariable: 1
+      name: Standard Time
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    intVariables:
+    - useVariable: 1
+      name: Kills
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    boolVariables:
+    - useVariable: 1
+      name: AnyKills?
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     stringVariables: []
     vector2Variables: []
     vector3Variables:
@@ -25,7 +49,13 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: {x: 0, y: 0, z: 0}
-    colorVariables: []
+    colorVariables:
+    - useVariable: 1
+      name: color
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 0, g: 0, b: 0, a: 1}
     rectVariables: []
     quaternionVariables: []
     gameObjectVariables: []
@@ -36,6 +66,10 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000
   events:
   - Explode!
+  - Die
+  - Respawn
+  - GameOver
+  - Check
